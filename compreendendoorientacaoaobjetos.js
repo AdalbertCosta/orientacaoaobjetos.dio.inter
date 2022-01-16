@@ -11,7 +11,7 @@ Pilares: Herança - Poliformismo - Encapsulamento - Abstração.
 //Pilares
 
 /* Abstração
-"Processo menal que consiste em isolar um aspecto determinado de um estado de coisas relativamente complexo, a fim de simplificar a sua avaliação, classificação ou para permitir a comunicação do mesmo."
+"Processo manual que consiste em isolar um aspecto determinado de um estado de coisas relativamente complexo, a fim de simplificar a sua avaliação, classificação ou para permitir a comunicação do mesmo."
 */
 
 /*Herança
